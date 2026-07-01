@@ -92,6 +92,14 @@ ul li a:hover{
     border-radius:5px;
     text-decoration:none;
 }
+.apply-now a{
+    text-decoration:none;
+}
+.apply-now:hover{
+    color:black;
+    background-color: yellow;
+}
+    
 
 
  .slide{
